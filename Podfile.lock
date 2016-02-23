@@ -1,0 +1,14 @@
+PODS:
+  - GreedEmoji (0.0.1)
+
+DEPENDENCIES:
+  - GreedEmoji (from `./`)
+
+EXTERNAL SOURCES:
+  GreedEmoji:
+    :path: ./
+
+SPEC CHECKSUMS:
+  GreedEmoji: 1060de8ed6701a4c0ab2863e8ff4e25f30de214e
+
+COCOAPODS: 0.39.0
